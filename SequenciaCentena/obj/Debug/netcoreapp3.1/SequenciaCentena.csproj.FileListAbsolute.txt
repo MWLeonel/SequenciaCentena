@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\SequenciaCentena\SequenciaCentena\bin\Debug\netcoreapp3.1\SequenciaCentena.exe
+C:\Users\Max\Desktop\SequenciaCentena\SequenciaCentena\bin\Debug\netcoreapp3.1\SequenciaCentena.deps.json
+C:\Users\Max\Desktop\SequenciaCentena\SequenciaCentena\bin\Debug\netcoreapp3.1\SequenciaCentena.runtimeconfig.json
+C:\Users\Max\Desktop\SequenciaCentena\SequenciaCentena\bin\Debug\netcoreapp3.1\SequenciaCentena.runtimeconfig.dev.json
+C:\Users\Max\Desktop\SequenciaCentena\SequenciaCentena\bin\Debug\netcoreapp3.1\SequenciaCentena.dll
+C:\Users\Max\Desktop\SequenciaCentena\SequenciaCentena\bin\Debug\netcoreapp3.1\SequenciaCentena.pdb
+C:\Users\Max\Desktop\SequenciaCentena\SequenciaCentena\obj\Debug\netcoreapp3.1\SequenciaCentena.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\SequenciaCentena\SequenciaCentena\obj\Debug\netcoreapp3.1\SequenciaCentena.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\SequenciaCentena\SequenciaCentena\obj\Debug\netcoreapp3.1\SequenciaCentena.AssemblyInfo.cs
+C:\Users\Max\Desktop\SequenciaCentena\SequenciaCentena\obj\Debug\netcoreapp3.1\SequenciaCentena.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\SequenciaCentena\SequenciaCentena\obj\Debug\netcoreapp3.1\SequenciaCentena.dll
+C:\Users\Max\Desktop\SequenciaCentena\SequenciaCentena\obj\Debug\netcoreapp3.1\SequenciaCentena.pdb
+C:\Users\Max\Desktop\SequenciaCentena\SequenciaCentena\obj\Debug\netcoreapp3.1\SequenciaCentena.genruntimeconfig.cache
